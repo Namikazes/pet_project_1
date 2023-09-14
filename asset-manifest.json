@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pet_project_1/static/css/main.0587ef4b.css",
-    "main.js": "/pet_project_1/static/js/main.2dd8643f.js",
-    "static/js/787.6521655c.chunk.js": "/pet_project_1/static/js/787.6521655c.chunk.js",
-    "static/media/photo_2023-08-09_13-53-08-transformed.png": "/pet_project_1/static/media/photo_2023-08-09_13-53-08-transformed.97fe9907c326b3a1ced6.png",
-    "static/media/pat.jpg": "/pet_project_1/static/media/pat.d999c3e31898b902d63a.jpg",
-    "static/media/b1-1.jpg": "/pet_project_1/static/media/b1-1.b62d5dc607f0c5452a24.jpg",
-    "static/media/photo_2.jpg": "/pet_project_1/static/media/photo_2.954875514bb1c82bd5aa.jpg",
-    "static/media/photo_1.jpg": "/pet_project_1/static/media/photo_1.0410278fdd650c5396b5.jpg",
-    "static/media/photo_4.jpg": "/pet_project_1/static/media/photo_4.1e6fa7222c9a5c66ee21.jpg",
-    "index.html": "/pet_project_1/index.html",
-    "main.0587ef4b.css.map": "/pet_project_1/static/css/main.0587ef4b.css.map",
-    "main.2dd8643f.js.map": "/pet_project_1/static/js/main.2dd8643f.js.map",
-    "787.6521655c.chunk.js.map": "/pet_project_1/static/js/787.6521655c.chunk.js.map"
+    "main.css": "/pet_project_landing-page/static/css/main.24adcc26.css",
+    "main.js": "/pet_project_landing-page/static/js/main.ae438a11.js",
+    "static/js/787.6521655c.chunk.js": "/pet_project_landing-page/static/js/787.6521655c.chunk.js",
+    "static/media/photo_2023-08-09_13-53-08-transformed.png": "/pet_project_landing-page/static/media/photo_2023-08-09_13-53-08-transformed.97fe9907c326b3a1ced6.png",
+    "static/media/pat.jpg": "/pet_project_landing-page/static/media/pat.d999c3e31898b902d63a.jpg",
+    "static/media/b1-1.jpg": "/pet_project_landing-page/static/media/b1-1.b62d5dc607f0c5452a24.jpg",
+    "static/media/photo_2.jpg": "/pet_project_landing-page/static/media/photo_2.954875514bb1c82bd5aa.jpg",
+    "static/media/photo_1.jpg": "/pet_project_landing-page/static/media/photo_1.0410278fdd650c5396b5.jpg",
+    "static/media/photo_4.jpg": "/pet_project_landing-page/static/media/photo_4.1e6fa7222c9a5c66ee21.jpg",
+    "index.html": "/pet_project_landing-page/index.html",
+    "main.24adcc26.css.map": "/pet_project_landing-page/static/css/main.24adcc26.css.map",
+    "main.ae438a11.js.map": "/pet_project_landing-page/static/js/main.ae438a11.js.map",
+    "787.6521655c.chunk.js.map": "/pet_project_landing-page/static/js/787.6521655c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0587ef4b.css",
-    "static/js/main.2dd8643f.js"
+    "static/css/main.24adcc26.css",
+    "static/js/main.ae438a11.js"
   ]
 }
